@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="AcreetionOS Hyprland Edition"
+iso_name="AcreetionOS-Hyprland-Edition"
 iso_label="acreetionOS_hyprland_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="AcreetionOS"
 iso_application="Acreetion OS Hyprland Install Media"
