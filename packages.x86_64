@@ -37,7 +37,6 @@ fastfetch
 fatresize
 file-roller
 fsarchiver
-gdm
 glu
 gpart
 gpm
@@ -122,6 +121,7 @@ rp-pppoe
 rsync
 rxvt-unicode-terminfo
 screen
+sddm
 sdparm
 sequoia-sq
 sg3_utils
